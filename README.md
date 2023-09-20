@@ -2,6 +2,9 @@
 A repository to showcase my various certificates for potential employees
 
 ### List of certificates:
+- [Data Analyst Bootcamp](DA_certificate_Rudow_Nicola.pdf)
+- [Data Engineer Bootcamp](Zertifikat_DE.pdf)
+- ---
 - [Kubernetes](004d7033-5069-4a75-aac7-6d8807e65f60.pdf)
 - [Data Visualization with Matplotlib](051422fe-ba15-4082-9a87-b7c9ae54fd83.pdf)
 - [Python for Data Science](2ccf43ff-be39-4b88-94ba-d6646929de74-2.pdf)
@@ -13,5 +16,3 @@ A repository to showcase my various certificates for potential employees
 - [Fast API](b9a28efc-82a7-432e-acc4-a230b6952fcc.pdf)
 - [SQL for Data Science](b9a28efc-82a7-432e-acc4-a230b6952fcc.pdf)
 
-- [Data Analyst Bootcamp](DA_certificate_Rudow_Nicola.pdf)
-- [Data Engineer Bootcamp](Zertifikat_DE.pdf)
