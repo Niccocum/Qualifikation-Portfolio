@@ -11,3 +11,7 @@ A repository to showcase my various certificates for potential employees
 - [Machine Learning with sklearn](b31dfd0e-140c-4674-8944-8ac9bed2431f.pdf)
 - [Machine Learning with PySpark](bf10bb02-4987-4256-8d4b-67b0fa7b6145.pdf)
 - [Fast API](b9a28efc-82a7-432e-acc4-a230b6952fcc.pdf)
+- [SQL for Data Science](b9a28efc-82a7-432e-acc4-a230b6952fcc.pdf)
+
+- [Data Analyst Bootcamp](DA_certificate_Rudow_Nicola.pdf)
+- [Data Engineer Bootcamp](Zertifikat_DE.pdf)
