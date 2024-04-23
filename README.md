@@ -16,3 +16,8 @@ A repository to showcase my various certificates for potential employees
 - [Fast API](b9a28efc-82a7-432e-acc4-a230b6952fcc.pdf)
 - [SQL for Data Science](b9a28efc-82a7-432e-acc4-a230b6952fcc.pdf)
 
+- ---
+### Repositories of Final Projects:
+- Data Analytics: [Capstone-T.R.E.E.](https://github.com/Niccocum/Capstone-T.R.E.E.)
+- Data Engineer: [holiday_itinerary](https://github.com/Niccocum/holiday_itinerary)
+- Marketing Analytics: [Sonstige-Poject](https://github.com/Niccocum/Sonstige-Project)
